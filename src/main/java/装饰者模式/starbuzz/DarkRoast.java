@@ -1,4 +1,4 @@
-package 装饰者模式.demo1;
+package 装饰者模式.starbuzz;
 
 /**
  * 烘焙咖啡
