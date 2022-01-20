@@ -32,6 +32,7 @@ class SaveButton{
         if (command == null){
             throw new RuntimeException("设备初始化失败");
         }
+        command.execute();
     }
 }
 
